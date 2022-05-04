@@ -1,0 +1,20 @@
+{
+  "name": "github_sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build" : "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "Sankho Sarkar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Sankho24"
+  },
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
